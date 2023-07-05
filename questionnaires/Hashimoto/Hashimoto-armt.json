@@ -1,0 +1,284 @@
+[
+    {
+        "field_name": "Hashimoto_1",
+        "form_name": "Hashimoto",
+        "section_header": "Please answer the following questions about your day",
+        "field_type": "radio",
+        "field_label": "1. Did you take your tablet on an empty stomach today?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "Yes"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "Hashimoto",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "Hashimoto_2",
+        "form_name": "Hashimoto",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "2. How was your mood today?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very bad"
+            },
+            {
+                "code": "1",
+                "label": "Bad"
+            },
+            {
+                "code": "2",
+                "label": "Neutral"
+            },
+            {
+                "code": "3",
+                "label": "Good"
+            },
+            {
+                "code": "4",
+                "label": "Very good"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "Hashimoto",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "Hashimoto_3",
+        "form_name": "Hashimoto",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "3. Did you feel fatigued today?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Not at all "
+            },
+            {
+                "code": "1",
+                "label": "A little bit"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            }
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "Hashimoto",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "Hashimoto_4",
+        "form_name": "Hashimoto",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "4. How well were you able to concentrate today?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very poorly"
+            },
+            {
+                "code": "1",
+                "label": "Poorly"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Well"
+            }
+            {
+                "code": "3",
+                "label": "Very well"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "Hashimoto",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "Hashimoto_5",
+        "form_name": "Hashimoto",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "5. Did you struggle with having litte interest in doing things today?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Not at all "
+            },
+            {
+                "code": "1",
+                "label": "A little bit"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            }
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "Hashimoto",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "Hashimoto_7",
+        "form_name": "Hashimoto",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "6. Did you have trouble falling asleep, staying asleep or sleeping too much last night?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Not at all "
+            },
+            {
+                "code": "1",
+                "label": "A little bit"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            }
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "Hashimoto",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "Hashimoto_8",
+        "form_name": "Hashimoto",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "7. Did you struggle with poor appetite or overeating today?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Not at all "
+            },
+            {
+                "code": "1",
+                "label": "A little bit"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            }
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "Hashimoto",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    }
+]
